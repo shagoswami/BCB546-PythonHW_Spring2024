@@ -17,7 +17,7 @@ This project aims to provide insights into 12 different species of penguins by a
 
 ## Installation
 
-To set up my environment to run these notebooks, I need Python 3 and the following packages:
+To set up my environment to run these notebooks, I needed Python 3 and the following packages:
 - BioPython
 - Pandas
 - Matplotlib
